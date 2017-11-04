@@ -1,0 +1,19 @@
+{
+  "name": "wrench",
+  "version": "1.0.0",
+  "description": "ES6 Version of iterate-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malexion/wrench.git"
+  },
+  "author": "Malexion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Malexion/wrench/issues"
+  },
+  "homepage": "https://github.com/Malexion/wrench#readme"
+}

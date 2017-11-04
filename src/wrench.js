@@ -1,6 +1,8 @@
 
-class Wrench {
-    
-}
+var str = require('./string-proto');
+var base = require('./source');
+var hook = require('./wrapper');
 
-module.exports = Wrench;
+base.fuse(hook, base);
+
+module.exports = hook;
